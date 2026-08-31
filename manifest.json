@@ -1,0 +1,16 @@
+{
+  "name": "Speech Booth",
+  "short_name": "Speech Booth",
+  "description": "Practice public speaking: prompts, recording, local pace/filler/grammar analysis, and progress tracking.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#15130d",
+  "theme_color": "#15130d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
